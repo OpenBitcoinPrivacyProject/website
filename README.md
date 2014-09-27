@@ -28,7 +28,7 @@ This is an up-to-date list of crypto-currency software and their compatibility w
 
 ### Stealth Address Compatibility Tracker
 
-This is an up-to-date list of Bitcoin clients and their integration or planned integration of Stealth Address technology.
+This [tracker](https://github.com/OpenBitcoinPrivacyProject/website/blob/master/stealth-address-tracker.md) is an up-to-date list of Bitcoin clients and their integration or planned integration of Stealth Address technology.
 
 ## Funding Principles
 

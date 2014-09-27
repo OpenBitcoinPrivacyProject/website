@@ -1,7 +1,7 @@
 Stealth Address Support Tracker
 ===============================
 
-From: (https://bitcointalk.org/index.php?topic=724153.0) by Justus Ranvier
+From: https://bitcointalk.org/index.php?topic=724153.0 by Justus Ranvier
 *Last updated: September 27, 2014.*
 <table>
 <tr>

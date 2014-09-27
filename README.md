@@ -22,6 +22,10 @@ Kristov is a security and privacy researcher, and the founder of the open Bitcoi
 
 CoinJoin Sudoku is a tool that measures the privacy afforded by CoinJoin implementations. The first implementation of CoinJoin Sudoku is coinjoinsudoku-php, written by @kristovatlas.
 
+### Open Bitcoin Privacy Library (libbitpriv)
+
+This software will be a framework for blockchain privacy analysis. The framework will be as blockchain-agnostic as possible, allowing developers to easily extend the library to analyze a range of crypto-currencies. This library will be leveraged by future projects that analyze blockchains from a privacy perspective.
+
 ### Tails Linux Compatibility Tracker
 
 This is an up-to-date list of crypto-currency software and their compatibility with the Tails Linux operating system.

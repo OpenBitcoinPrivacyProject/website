@@ -3,7 +3,7 @@ Open Bitcoin Privacy Project
 
 ## About the Organization
 
-The Open Bitcoin Privacy Project is an open source, global organization intended to improve financial privacy within the Bitcoin ecosystem. Our goals:
+The Open Bitcoin Privacy Project is an open source, global organization whose mission is to improve financial privacy within the Bitcoin ecosystem. Our goals:
 
 - To inventory existing tools and resources useful for Bitcoin users to improve their financial privacy
 - To review existing tools and resources intended to improve Bitcoin users’ financial privacy

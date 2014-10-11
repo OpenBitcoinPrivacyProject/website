@@ -16,7 +16,7 @@ Feodracoin-Qt | Incompatible :(
 ## Details
 
 
-Client                                                                              | Compatible? | Incompability Status
+Client                                                                              | Compatible? | Incompatibility Status
 ----------------------------------------------------------------------------------- | ----------- | --------------------
 [Dark Wallet v0.1.0](http://darkwallet.is)                                          | No (Tails 1.0) | DW is a browser extension; not yet released for Firefox, only Google Chrome.
 [Bitcoin Core v0.9.2.1](https://bitcoin.org/en/release/v0.9.2.1)             | <strong>Yes (Tails 1.1.1)</strong> | 
